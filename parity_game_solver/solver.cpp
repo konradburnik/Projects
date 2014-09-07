@@ -286,6 +286,5 @@ int main( void )
    cout << *it+1 << " ";
    cout << endl;
  
- system("pause");    
  return 0;    
 }
